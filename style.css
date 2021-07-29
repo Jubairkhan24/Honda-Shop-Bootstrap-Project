@@ -1,4 +1,42 @@
-img  .grayscale-featured-bike {
+body {
+    font-family: 'Poppins', sans-serif;
+}
+.custom-h1-style{
+    font-size: 48px !important;
+    font-weight: 600;
+}
+.custom-btn-color {
+    background-color: #E76F51;
+    Width: 168px;
+    Height: 44px;
+    padding: 10px; 
+}
+.custom-header-bg {
+    background-color: #264653;
+} 
+.custom-small-color {
+    color: #E76F51;
+}
+#grayscale-featured-bike{
     -webkit-filter: grayscale(100%); 
     filter: grayscale(100%);
 }
+.faq-img-customization {
+    height: 423px;
+    width: 450px;
+    padding-left: 30px;
+}
+.happy-client-img-resize {
+    width: 149px;
+    height: 149px;
+    border-radius: 50%;
+}
+
+
+/* media query responsive  */
+
+/* @media only screen and (max-width:688px) {
+    header {
+        
+    }
+} */
