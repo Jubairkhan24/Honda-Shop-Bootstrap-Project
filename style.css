@@ -21,6 +21,10 @@ body {
     -webkit-filter: grayscale(100%); 
     filter: grayscale(100%);
 }
+.custom-featured-bike-resize {
+    width: 290px; 
+    height: 250px;
+}
 .faq-img-customization {
     height: 423px;
     width: 450px;
@@ -31,12 +35,3 @@ body {
     height: 149px;
     border-radius: 50%;
 }
-
-
-/* media query responsive  */
-
-/* @media only screen and (max-width:688px) {
-    header {
-        
-    }
-} */
